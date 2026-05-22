@@ -82,4 +82,4 @@ Currently in development 🚀
 
 # Author
 
-Created and managed by the AI Business Assistant Project Team.
+Created by nahashon Kipsang Rotich and managed by his ai business assistant team.
